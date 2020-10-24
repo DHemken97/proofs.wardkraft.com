@@ -1,0 +1,46 @@
+.centerContent {
+    margin: auto;
+    width: 30%;
+    padding: 10px;
+    
+}
+.fontSize {
+    font-size: 20px;
+    width: 110%;
+    
+    
+}
+.textbox{
+    border-color: black;
+    height: 20px;
+}
+
+.header{
+    background-color:lightgrey;
+    border-style:none;
+}
+.notHeader{
+    border-style:none;
+}
+.textcolor{
+    color:red;
+    
+}
+::placeholder {  
+  color: red;
+  opacity: 1; 
+}
+.font {
+    font-size: 20px;
+}
+.table{
+    table-layout:fixed;
+   width: 60%;
+    border-bottom:solid;
+}
+.border {
+    border-bottom:solid;
+}
+.link{
+    font-size:20px;
+}
